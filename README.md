@@ -139,7 +139,7 @@ The goal of this project is to improve productivity and task management using a 
 
 # 👩‍💻 Author
 
-Ajawankar Bhavana
+Ajmankar Bhavana
 
 ---
 
